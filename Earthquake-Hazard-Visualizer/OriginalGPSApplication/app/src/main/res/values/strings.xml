@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Original GPS Application</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="button_Visualization_text">Visualize the earthquake hazard of this location</string>
+    <string name="textView_LocationData_default">Location Data</string>
+    <string name="textView_Longitude_default">Longitude</string>
+    <string name="textView_Latitude_default">Latitude</string>
+    <string name="textView_Log_default">Data Log</string>
+</resources>
